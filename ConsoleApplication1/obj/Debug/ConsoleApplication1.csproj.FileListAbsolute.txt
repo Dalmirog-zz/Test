@@ -1,2 +1,7 @@
 c:\users\john\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\GitHub\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\GitHub\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\GitHub\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\GitHub\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\GitHub\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\GitHub\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
