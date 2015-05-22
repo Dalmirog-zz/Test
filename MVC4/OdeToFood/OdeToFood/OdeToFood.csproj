@@ -193,6 +193,7 @@
     </Compile>
     <Compile Include="Models\AboutModel.cs" />
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\IndexModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
